@@ -1,5 +1,10 @@
 # Todo list frontend
 
+## Installation
+* Clone the project
+* Install **Node Js** (v16.13.1)
+* Run `npm install` to frontend directory
+
 ## Run app
 In the project directory, you can run:
 
