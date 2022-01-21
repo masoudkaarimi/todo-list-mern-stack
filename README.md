@@ -3,6 +3,12 @@
 [img]: todo-list-mern-stack.png (fdsfs)
 ![Screenshot](screenshot.png 'Screenshot Todo list')
 
+## Technologies Used:
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
 ## Installation
 * Clone the project
 * Install **Node Js** (v16.13.1)
